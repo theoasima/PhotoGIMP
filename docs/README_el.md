@@ -24,9 +24,9 @@
 
 ## 📷 Στιγμιότυπα οθόνης
 
-| Οθόνη Έναρξης | Παράθυρο Εφαρμογής |
+| Οθόνη έναρξης | Παράθυρο εφαρμογής |
 |-|-|
-| ![[Οθόνη ένραξης PhotoGIMP Diolinux]](../.config/GIMP/3.0/splashes/splash-screen-2025-v2.png)<br>Οθόνη έναρξης PhotoGIMP Diolinux | ![[PhotoGIMP 3]](../screenshots/photogimp_3_-_diolinux.png)<br>PhotoGIMP 3
+| ![[Οθόνη έναρξης PhotoGIMP Diolinux]](../.config/GIMP/3.0/splashes/splash-screen-2025-v2.png)<br>Οθόνη έναρξης PhotoGIMP Diolinux | ![[PhotoGIMP 3]](../screenshots/photogimp_3_-_diolinux.png)<br>PhotoGIMP 3
 
 ---
 
